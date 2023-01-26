@@ -1,5 +1,3 @@
-# HW4
-
 # load package and dataset 
 library(knitr)
 library(tidyverse)
