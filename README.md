@@ -1,5 +1,5 @@
 # Apply linear regression models to study associaiton between air pollution and age-adjusted-mortality using the SMSA dataset
-#### BIOST 515/518: Homework 4
+#### BIOST 515/518 Assignment 4
 #### Instructor:  Amy Willis
 
 ## Scientific Background
